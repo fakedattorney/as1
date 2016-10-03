@@ -1,0 +1,23 @@
+<resources>
+    <string name="clear_all">Clear All</string>
+
+    <string name="today">Habits for Today</string>
+    <string name="all">Show All Habits</string>
+
+    <string name="all_habits">All Habits</string>
+
+    <string name="app_name">cjiang2-HabitTracker</string>
+    <string name="add_todo">Add a Habit</string>
+    <string name="habit_hint">Type in your habit....</string>
+    <string name="week_hint">Tap to select week....</string>
+    <string name="habitText">Enter the Habit Description: </string>
+    <string name="timeText">Choose Date and Time: </string>
+    <string name="weekText">Choose Days of the Week to Occur on : </string>
+    <string name="dateText">Enter Date (Optional) : </string>
+
+
+    <string name="recurrence">Pick Recurrence day:</string>
+    <string name="ok">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+</resources>
