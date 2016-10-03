@@ -6,7 +6,9 @@ https://youtu.be/c8k7Jkx8Br8
 
 # Notes
 CompiledSdk version 23
+
 minSdkVersion 18
+
 BuildToolsVersion 22.0.1
 
 # Collaboration
@@ -14,6 +16,7 @@ Consultion for WeekDialogPicker and DateHistoryDialog UI Design from Zichun Lin
 
 # Referrence
 http://stackoverflow.com/questions/10108774/how-to-implement-the-android-actionbar-back-button Implement of back button
+
 http://stackoverflow.com/questions/9861483/datepickerdialog DatepickerDialog referrence
 
 # License
